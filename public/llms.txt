@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-cd3c8152.zappy5.app
+https://example.com
 הכניסו קדושה לביתכם עם מזוזות כשרות למהדרין שנכתבות בידי סופר סת&quot;ם מוסמך. כל אות נבחנת בקפידה להידור הלכתי עליון. מגוון בתי מזוזה מעוצבים מחכים לכם.
 
 ### תקני הידור
-https://-cd3c8152.zappy5.app/hiddur-standards
+https://example.com/hiddur-standards
 גלו את ההבדל בין כשרות בסיסית להידור מופלג. מדריך מקיף על תקני הכתיבה המחמירים שלנו במזוזות, תפילין ומגילות. בחרו את רמת השלמות ההלכתית שמתאימה לנשמתכם.
 
 ### הזמנות מיוחדות
-https://-cd3c8152.zappy5.app/custom-orders
+https://example.com/custom-orders
 הזמינו ספר תורה או מגילת אסתר שנכתבים במיוחד עבורכם, מתוך יראת שמיים ואהבת המצווה. ליווי צמוד לאורך כל תהליך היצירה המרגש. הגשימו חלום של מצווה בשלמות שאין שנייה לה.
 
 ### אודות הסופר
-https://-cd3c8152.zappy5.app/about
+https://example.com/about
 הכירו את הסופר מומחה הסת&quot;ם, שהכשרתו המעמיקה ויראת השמיים שלו מבטיחים לכם תשמישי קדושה ברמה הגבוהה ביותר. מסע אישי אל תוך מלאכת הקודש שמחברת דורות של מסירות.
 
 ### צור קשר
-https://-cd3c8152.zappy5.app/contact
+https://example.com/contact
 מוזמנים ליצור קשר לייעוץ אישי והזמנת מזוזות, תפילין, מגילות ובתי מזוזה מעוצבים. נשמח לעמוד לשירותכם ולהתאים לכם את הפתרון המדויק על פי ההלכה. השאירו פרטים ונחזור אליכם בהקדם.
 
 ### Products
-https://-cd3c8152.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - פאר הסת"ם והיודאיקה
 
 ### Cart
-https://-cd3c8152.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-cd3c8152.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-cd3c8152.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-cd3c8152.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-cd3c8152.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-cd3c8152.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - פאר הסת"ם והיודאיקה
 
 ### Category
-https://-cd3c8152.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - פאר הסת"ם והיודאיקה
 
 ### תודה - פנייתך התקבלה
-https://-cd3c8152.zappy5.app/thank-you
+https://example.com/thank-you
 פאר הסת"ם והיודאיקה - תודה - פנייתך התקבלה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-cd3c8152.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-cd3c8152.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-cd3c8152.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -111,8 +111,8 @@ Judaica & Religious Articles
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-cd3c8152.zappy5.app/sitemap.xml
-- Robots: https://-cd3c8152.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-cd3c8152.zappy5.app/llms-full.txt
-- Products (JSON): https://-cd3c8152.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-cd3c8152.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
