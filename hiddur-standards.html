@@ -881,7 +881,7 @@
 </script>
   
   <main id="main">
-    <section class="hiddur-standards-intro-section" data-layout-spec="תקני הידור-intro" dir="rtl">
+    <section class="hiddur-standards-intro-section" data-layout-spec="תקני הידור-intro" dir="rtl" id="hiddur-standards-intro-section">
   <div class="hiddur-standards-intro-container">
     
     <!-- Decorative ornamental divider -->
@@ -903,7 +903,7 @@
     <div class="hiddur-tiers-grid">
       
       <!-- Tier 1: Basic Kosher -->
-      <article class="hiddur-tier-card">
+      <article class="hiddur-tier-card" data-grid-item-index="0">
         <div class="hiddur-tier-badge tier-basic">
           <span class="tier-icon" aria-hidden="true">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" data-element-type="icon" data-icon-type="svg">
@@ -913,8 +913,8 @@
           </span>
           <span class="tier-label">כשר בסיסי</span>
         </div>
-        <h3 class="hiddur-tier-title">כתב כשר למהדרין</h3>
-        <p class="hiddur-tier-desc">
+        <h3 class="hiddur-tier-title" style="">כתב כשר&nbsp;</h3>
+        <p class="hiddur-tier-desc" style="">
           כתיבה תקנית על פי כל דיני השולחן ערוך, תוך הקפדה על צורת האותיות, חקיקתן וקדושתן. מתאים למי שמעוניין בקיום המצווה בהידור בסיסי ונאמן למסורת.
         </p>
         <ul class="hiddur-tier-features">
@@ -925,7 +925,7 @@
       </article>
 
       <!-- Tier 2: Enhanced Hiddur -->
-      <article class="hiddur-tier-card tier-featured">
+      <article class="hiddur-tier-card tier-featured" data-grid-item-index="1">
         <div class="hiddur-tier-badge tier-enhanced">
           <span class="tier-icon" aria-hidden="true">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" data-element-type="icon" data-icon-type="svg">
@@ -946,7 +946,7 @@
       </article>
 
       <!-- Tier 3: Highest Hiddur -->
-      <article class="hiddur-tier-card">
+      <article class="hiddur-tier-card" data-grid-item-index="2">
         <div class="hiddur-tier-badge tier-premium">
           <span class="tier-icon" aria-hidden="true">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" data-element-type="icon" data-icon-type="svg">
@@ -984,7 +984,7 @@
 
     <!-- Subtle CTA -->
     <div class="hiddur-cta-wrapper">
-      <a href="#contact" class="btn-primary hiddur-cta-btn">
+      <a href="#contact" class="btn-primary hiddur-cta-btn" data-element-type="button" data-element-id="btn-1783543852758-tzfzzrok9" data-native-element="true">
         <span>צרו קשר לייעוץ אישי</span>
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
           <path d="M5 12H19" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
