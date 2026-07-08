@@ -80,7 +80,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### מגילת אסתר
+https://example.com/product/mgylt-astr-juwzk1
+- Price: 4700.00 ILS (sale, was 5200.00 ILS)
+- Availability: In stock
+- Description: מגילת אסתר מהודרת כתב ספרדי יפיפה כוללתיור והגהת מחשב
+- Image: https://example.com/assets/product-ai-fit-1783543080312-lylcf.webp
 
 ---
 

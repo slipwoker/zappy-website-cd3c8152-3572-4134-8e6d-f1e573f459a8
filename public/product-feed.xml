@@ -4,6 +4,19 @@
     <title>פאר הסת&quot;ם והיודאיקה</title>
     <link>https://example.com</link>
     <description>Product feed for פאר הסת&quot;ם והיודאיקה</description>
-    <lastBuildDate>Wed, 08 Jul 2026 20:27:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 20:46:23 GMT</lastBuildDate>
+    <item>
+      <g:id>1055fe9d-4a3a-4100-900c-56de123fe44e</g:id>
+      <g:title>מגילת אסתר</g:title>
+      <g:description>מגילת אסתר מהודרת כתב ספרדי יפיפה כוללתיור והגהת מחשב</g:description>
+      <g:link>https://example.com/product/mgylt-astr-juwzk1</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1783543080312-lylcf.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>5200.00 ILS</g:price>
+      <g:sale_price>4700.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פאר הסת&quot;ם והיודאיקה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
