@@ -80,7 +80,41 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 1**
+**Total active products: 6**
+
+### מגילה  אסתר כשרה
+https://example.com/product/mgylh-astr-kshrh-b5u0ek
+- Price: 3100.00 ILS
+- Availability: Out of stock
+- Description: מזילת אסתר כשרה 28 שורות ניכתב עם דיו נהרי עם אירכות של יותר ממאה שנה. על קלף משובח.
+- Image: https://example.com/assets/product-1783601127121-yo3i8n.webp
+
+### מגילת אסתר מהודרת א
+https://example.com/product/mgylt-astr-mhvdrt-a-z9px3g
+- Price: 3900.00 ILS
+- Availability: In stock
+- Description: מגילת אסתר יפיפיה קטנה בגובה 15 סנטימטר גובה שורה שמונה מילימטר
+- Image: https://example.com/assets/product-1783600780724-g7qhe4.webp
+
+### מזוזה כשרה 
+https://example.com/product/mzvzh-kshrh-a37qn3
+- Price: 180.00 ILS
+- Availability: In stock
+- Description: מזוזה כשרה על קלף גודל 15/12 נכתבה על ידי סופר ירא שמים עים תעודה בדיו נהרי כתב ספרדי עם תיוג.
+
+### מזוזה כשרה למהרדין א
+https://example.com/product/mzvzh-kshrh-lmhrdyn-a-cf1wue
+- Price: 280.00 ILS
+- Availability: Out of stock
+- Description: מזוזה כשרה על קלף שליל גודל 15/12 נכתבה על ידי סופר ירא שמים עים תעודה בדיו נהרי כתב ספרדי עם תיוג.
+- Image: https://example.com/assets/product-1783599483719-be329e.webp
+
+### מיזמור למנצח בצורת מנורה
+https://example.com/product/myzmvr-lmntsch-btsvrt-mnvrh-270qw3
+- Price: 150.00 ILS
+- Availability: In stock
+- Description: כתב ספרדי יפיפה על קלף 17 סמ' על 29 סמ'
+- Image: https://example.com/assets/product-1783598216574-11a42m.webp
 
 ### מגילת אסתר כשר למהדרין א 
 https://example.com/product/mgylt-astr-kshr-lmhdryn-a-5ab52v

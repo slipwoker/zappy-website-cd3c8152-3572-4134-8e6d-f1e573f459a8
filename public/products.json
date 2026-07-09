@@ -1,10 +1,122 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T11:45:49.868Z",
+  "generated_at": "2026-07-09T13:00:08.568Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 1,
+  "count": 6,
   "products": [
+    {
+      "id": "620b3929-a1ef-446f-bec7-391aa965d350",
+      "slug": "mgylh-astr-kshrh-b5u0ek",
+      "name": "מגילה  אסתר כשרה",
+      "name_translations": {},
+      "description": "<p>​מחפשים מגילת אסתר שהיא יצירת פאר לדורות. המגילה נכתבה בחרדת קודש ובקפידה יתרה על ידי סופר סתם מוסמך וירא שמיים. המגילה נכתבה בכתב ספרדי מוהדר, על גבי קלף משובח ונקי שנבחר בקפידה. הכתיבה נעשתה בדיו נהרי איכותי בעל גוון שחור עמוק המבטיח עמידות ואיכות למעלה ממאה שנה. המגילה עברה הגהה קפדנית, היא כשרה למהדרין ומציגה שילוב נדיר של הלכה צרופה, מסורת ברמה הגבוהה ביותר.</p><p><br></p><p>בנוסף מגיע בית מגילה מהודר (יש אפשרות ליבחור)</p>",
+      "short_description": "מזילת אסתר כשרה 28 שורות ניכתב עם דיו נהרי עם אירכות של יותר ממאה שנה. על קלף משובח.",
+      "sku": null,
+      "brand": null,
+      "price": 3100,
+      "base_price": 3100,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783601127121-yo3i8n.webp",
+        "https://example.com/assets/product-1783601141099-yeycld.webp"
+      ],
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://example.com/product/mgylh-astr-kshrh-b5u0ek",
+      "categories": [],
+      "updated_at": "2026-07-09T12:50:33.514Z"
+    },
+    {
+      "id": "91522dc7-c66b-4ff9-b7d7-bd88dac246e6",
+      "slug": "mgylt-astr-mhvdrt-a-z9px3g",
+      "name": "מגילת אסתר מהודרת א",
+      "name_translations": {},
+      "description": "<p>​מחפשים מגילת אסתר שהיא יצירת פאר לדורות. המגילה נכתבה בחרדת קודש ובקפידה יתרה על ידי סופר סתם מוסמך וירא שמיים. המגילה נכתבה בכתב ספרדי מוהדר, תם ויפהפה ברמת גימור אומנותית גבוהה על גבי עור שליל משובח ונקי שנבחר בקפידה. הכתיבה נעשתה בדיו נהרי איכותי בעל גוון שחור עמוק המבטיח עמידות ואיכות למעלה ממאה שנה. המגילה עברה הגהה קפדנית, היא כשרה למהדרין ומציגה שילוב נדיר של הלכה צרופה, מסורת ואומנות ברמה הגבוהה ביותר.</p><p><br></p><p>בנוסף מגיע בית מגילה מהודר (יש אפשרות ליבחור)</p>",
+      "short_description": "מגילת אסתר יפיפיה קטנה בגובה 15 סנטימטר גובה שורה שמונה מילימטר",
+      "sku": null,
+      "brand": null,
+      "price": 3900,
+      "base_price": 3900,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783600780724-g7qhe4.webp",
+        "https://example.com/assets/product-1783600788882-0ifhpo.webp",
+        "https://example.com/assets/product-1783600797363-50sedm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mgylt-astr-mhvdrt-a-z9px3g",
+      "categories": [],
+      "updated_at": "2026-07-09T12:41:52.719Z"
+    },
+    {
+      "id": "9fa22dfc-b56b-4fb3-926b-3157027ce51b",
+      "slug": "mzvzh-kshrh-a37qn3",
+      "name": "מזוזה כשרה ",
+      "name_translations": {},
+      "description": "<p>מזוזה כשרה זו נכתבה על ידי סופר סת\"ם מוסמך, ירא שמיים ובעל תעודה מטעם המכונים המובילים בארץ, אשר כתב אותה בקדושה ובכוונה טהורה לשם מצווה. הכתיבה נעשתה בכתב מבריק, ברור ויפה באמצעות דיו נהרי משובח ואיכותי, על גבי קלף שליל מובחר ועמיד המבטיח את שמירת האותיות לאורך זמן.</p>",
+      "short_description": "מזוזה כשרה על קלף גודל 15/12 נכתבה על ידי סופר ירא שמים עים תעודה בדיו נהרי כתב ספרדי עם תיוג.",
+      "sku": null,
+      "brand": null,
+      "price": 180,
+      "base_price": 180,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mzvzh-kshrh-a37qn3",
+      "categories": [],
+      "updated_at": "2026-07-09T12:32:57.122Z"
+    },
+    {
+      "id": "5eeac7fe-c553-44ff-8776-5117e09d0344",
+      "slug": "mzvzh-kshrh-lmhrdyn-a-cf1wue",
+      "name": "מזוזה כשרה למהרדין א",
+      "name_translations": {},
+      "description": "<p>מזוזה כשרה למהדרין א' זו נכתבה על ידי סופר סת\"ם מוסמך, ירא שמיים ובעל תעודה מטעם המכונים המובילים בארץ, אשר כתב אותה בקדושה ובכוונה טהורה לשם מצווה. הכתיבה נעשתה בכתב מבריק, ברור ויפה באמצעות דיו נהרי משובח ואיכותי, על גבי קלף שליל מובחר ועמיד המבטיח את שמירת האותיות לאורך זמן.</p>",
+      "short_description": "מזוזה כשרה  על קלף שליל גודל 15/12 נכתבה על ידי סופר ירא שמים עים תעודה בדיו נהרי כתב ספרדי עם תיוג.",
+      "sku": null,
+      "brand": null,
+      "price": 280,
+      "base_price": 280,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783599483719-be329e.webp"
+      ],
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://example.com/product/mzvzh-kshrh-lmhrdyn-a-cf1wue",
+      "categories": [],
+      "updated_at": "2026-07-09T12:42:24.924Z"
+    },
+    {
+      "id": "634c0b9e-fc29-4a27-b98e-d74211228d38",
+      "slug": "myzmvr-lmntsch-btsvrt-mnvrh-270qw3",
+      "name": "מיזמור למנצח בצורת מנורה",
+      "name_translations": {},
+      "description": "<p>מיזמור למנצח יפיפה כתב ספרדי יפה מכתב על קלף גודל קלף 17 סנטימטר על 29 סנטימטר. (בכוונה לא כתבו את שם השם בימלואו אבל יש אפשרות לכתוב אם זה יהיה ממוסגר יפה אין חשש שזיה יתבזה)</p>",
+      "short_description": "כתב ספרדי יפיפה על קלף 17 סמ' על 29 סמ'",
+      "sku": null,
+      "brand": null,
+      "price": 150,
+      "base_price": 150,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783598216574-11a42m.webp",
+        "https://example.com/assets/product-1783598225535-m4cclp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/myzmvr-lmntsch-btsvrt-mnvrh-270qw3",
+      "categories": [],
+      "updated_at": "2026-07-09T12:00:09.755Z"
+    },
     {
       "id": "1055fe9d-4a3a-4100-900c-56de123fe44e",
       "slug": "mgylt-astr-kshr-lmhdryn-a-5ab52v",
@@ -28,7 +140,7 @@
       "categories": [
         "מגילות"
       ],
-      "updated_at": "2026-07-09T11:24:34.968Z"
+      "updated_at": "2026-07-09T11:47:32.309Z"
     }
   ]
 }
