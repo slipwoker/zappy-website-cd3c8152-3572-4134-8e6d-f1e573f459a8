@@ -1,139 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://example.com</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://example.com/hiddur-standards</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/hiddur-standards</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/custom-orders</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/custom-orders</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/about</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/about</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/contact</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/contact</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/products</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/products</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/cart</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/cart</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/checkout</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/checkout</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/login</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/login</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/account</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/account</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/order-success</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/order-success</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/product/:slug</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/product/:slug</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/category/:slug</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/category/:slug</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/thank-you</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/thank-you</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/privacy</loc>
-    <lastmod>2026-07-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://example.com/terms</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/privacy</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.com/accessibility</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/terms</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.com/product/mgylh-astr-kshrh-b5u0ek</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/accessibility</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/product/mgylh-astr-kshrh-b5u0ek</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/mgylt-astr-mhvdrt-a-z9px3g</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/product/mgylt-astr-mhvdrt-a-z9px3g</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/mzvzh-kshrh-a37qn3</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/product/mzvzh-kshrh-a37qn3</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/mzvzh-kshrh-lmhrdyn-a-cf1wue</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/product/mzvzh-kshrh-lmhrdyn-a-cf1wue</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/myzmvr-lmntsch-btsvrt-mnvrh-270qw3</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/product/myzmvr-lmntsch-btsvrt-mnvrh-270qw3</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/mgylt-astr-kshr-lmhdryn-a-5ab52v</loc>
+    <loc>https://paar-hastam-vehayudaika.zappy5.app/product/mgylt-astr-kshr-lmhdryn-a-5ab52v</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>

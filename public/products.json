@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T15:26:31.329Z",
-  "base_url": "https://example.com",
+  "generated_at": "2026-07-09T15:26:59.993Z",
+  "base_url": "https://paar-hastam-vehayudaika.zappy5.app",
   "currency": "ILS",
   "count": 6,
   "products": [
@@ -19,12 +19,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783601127121-yo3i8n.webp",
-        "https://example.com/assets/product-1783601141099-yeycld.webp"
+        "https://paar-hastam-vehayudaika.zappy5.app/assets/product-1783601127121-yo3i8n.webp",
+        "https://paar-hastam-vehayudaika.zappy5.app/assets/product-1783601141099-yeycld.webp"
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://example.com/product/mgylh-astr-kshrh-b5u0ek",
+      "url": "https://paar-hastam-vehayudaika.zappy5.app/product/mgylh-astr-kshrh-b5u0ek",
       "categories": [],
       "updated_at": "2026-07-09T12:50:33.514Z"
     },
@@ -42,13 +42,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783600780724-g7qhe4.webp",
-        "https://example.com/assets/product-1783600788882-0ifhpo.webp",
-        "https://example.com/assets/product-1783600797363-50sedm.webp"
+        "https://paar-hastam-vehayudaika.zappy5.app/assets/product-1783600780724-g7qhe4.webp",
+        "https://paar-hastam-vehayudaika.zappy5.app/assets/product-1783600788882-0ifhpo.webp",
+        "https://paar-hastam-vehayudaika.zappy5.app/assets/product-1783600797363-50sedm.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/mgylt-astr-mhvdrt-a-z9px3g",
+      "url": "https://paar-hastam-vehayudaika.zappy5.app/product/mgylt-astr-mhvdrt-a-z9px3g",
       "categories": [],
       "updated_at": "2026-07-09T12:41:52.719Z"
     },
@@ -68,7 +68,7 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/mzvzh-kshrh-a37qn3",
+      "url": "https://paar-hastam-vehayudaika.zappy5.app/product/mzvzh-kshrh-a37qn3",
       "categories": [],
       "updated_at": "2026-07-09T12:32:57.122Z"
     },
@@ -86,11 +86,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783599483719-be329e.webp"
+        "https://paar-hastam-vehayudaika.zappy5.app/assets/product-1783599483719-be329e.webp"
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://example.com/product/mzvzh-kshrh-lmhrdyn-a-cf1wue",
+      "url": "https://paar-hastam-vehayudaika.zappy5.app/product/mzvzh-kshrh-lmhrdyn-a-cf1wue",
       "categories": [],
       "updated_at": "2026-07-09T12:42:24.924Z"
     },
@@ -108,12 +108,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783598216574-11a42m.webp",
-        "https://example.com/assets/product-1783598225535-m4cclp.webp"
+        "https://paar-hastam-vehayudaika.zappy5.app/assets/product-1783598216574-11a42m.webp",
+        "https://paar-hastam-vehayudaika.zappy5.app/assets/product-1783598225535-m4cclp.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/myzmvr-lmntsch-btsvrt-mnvrh-270qw3",
+      "url": "https://paar-hastam-vehayudaika.zappy5.app/product/myzmvr-lmntsch-btsvrt-mnvrh-270qw3",
       "categories": [],
       "updated_at": "2026-07-09T12:00:09.755Z"
     },
@@ -131,12 +131,12 @@
       "sale_price": 4700,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783595605742-421uza.webp",
-        "https://example.com/assets/product-1783595646808-reo4bh.webp"
+        "https://paar-hastam-vehayudaika.zappy5.app/assets/product-1783595605742-421uza.webp",
+        "https://paar-hastam-vehayudaika.zappy5.app/assets/product-1783595646808-reo4bh.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/mgylt-astr-kshr-lmhdryn-a-5ab52v",
+      "url": "https://paar-hastam-vehayudaika.zappy5.app/product/mgylt-astr-kshr-lmhdryn-a-5ab52v",
       "categories": [
         "מגילות"
       ],

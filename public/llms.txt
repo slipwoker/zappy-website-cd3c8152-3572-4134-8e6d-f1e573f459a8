@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://example.com
+https://paar-hastam-vehayudaika.zappy5.app
 הכניסו קדושה לביתכם עם מזוזות כשרות למהדרין שנכתבות בידי סופר סת&quot;ם מוסמך. כל אות נבחנת בקפידה להידור הלכתי עליון. מגוון בתי מזוזה מעוצבים מחכים לכם.
 
 ### תקני הידור
-https://example.com/hiddur-standards
+https://paar-hastam-vehayudaika.zappy5.app/hiddur-standards
 גלו את ההבדל בין כשרות בסיסית להידור מופלג. מדריך מקיף על תקני הכתיבה המחמירים שלנו במזוזות, תפילין ומגילות. בחרו את רמת השלמות ההלכתית שמתאימה לנשמתכם.
 
 ### הזמנות מיוחדות
-https://example.com/custom-orders
+https://paar-hastam-vehayudaika.zappy5.app/custom-orders
 הזמינו ספר תורה או מגילת אסתר שנכתבים במיוחד עבורכם, מתוך יראת שמיים ואהבת המצווה. ליווי צמוד לאורך כל תהליך היצירה המרגש. הגשימו חלום של מצווה בשלמות שאין שנייה לה.
 
 ### אודות הסופר
-https://example.com/about
+https://paar-hastam-vehayudaika.zappy5.app/about
 הכירו את הסופר מומחה הסת&quot;ם, שהכשרתו המעמיקה ויראת השמיים שלו מבטיחים לכם תשמישי קדושה ברמה הגבוהה ביותר. מסע אישי אל תוך מלאכת הקודש שמחברת דורות של מסירות.
 
 ### צור קשר
-https://example.com/contact
+https://paar-hastam-vehayudaika.zappy5.app/contact
 מוזמנים ליצור קשר לייעוץ אישי והזמנת מזוזות, תפילין, מגילות ובתי מזוזה מעוצבים. נשמח לעמוד לשירותכם ולהתאים לכם את הפתרון המדויק על פי ההלכה. השאירו פרטים ונחזור אליכם בהקדם.
 
 ### Products
-https://example.com/products
+https://paar-hastam-vehayudaika.zappy5.app/products
 המוצרים שלנו - פאר הסת"ם והיודאיקה
 
 ### Cart
-https://example.com/cart
+https://paar-hastam-vehayudaika.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://paar-hastam-vehayudaika.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://paar-hastam-vehayudaika.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://paar-hastam-vehayudaika.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://paar-hastam-vehayudaika.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://paar-hastam-vehayudaika.zappy5.app/product/:slug
 פרטי המוצר - פאר הסת"ם והיודאיקה
 
 ### Category
-https://example.com/category/:slug
+https://paar-hastam-vehayudaika.zappy5.app/category/:slug
 מוצרים - פאר הסת"ם והיודאיקה
 
 ### תודה - פנייתך התקבלה
-https://example.com/thank-you
+https://paar-hastam-vehayudaika.zappy5.app/thank-you
 פאר הסת"ם והיודאיקה - תודה - פנייתך התקבלה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://paar-hastam-vehayudaika.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://paar-hastam-vehayudaika.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://paar-hastam-vehayudaika.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -83,46 +83,46 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 6**
 
 ### מגילה  אסתר כשרה
-https://example.com/product/mgylh-astr-kshrh-b5u0ek
+https://paar-hastam-vehayudaika.zappy5.app/product/mgylh-astr-kshrh-b5u0ek
 - Price: 3100.00 ILS
 - Availability: Out of stock
 - Description: מזילת אסתר כשרה 28 שורות ניכתב עם דיו נהרי עם אירכות של יותר ממאה שנה. על קלף משובח.
-- Image: https://example.com/assets/product-1783601127121-yo3i8n.webp
+- Image: https://paar-hastam-vehayudaika.zappy5.app/assets/product-1783601127121-yo3i8n.webp
 
 ### מגילת אסתר מהודרת א
-https://example.com/product/mgylt-astr-mhvdrt-a-z9px3g
+https://paar-hastam-vehayudaika.zappy5.app/product/mgylt-astr-mhvdrt-a-z9px3g
 - Price: 3900.00 ILS
 - Availability: In stock
 - Description: מגילת אסתר יפיפיה קטנה בגובה 15 סנטימטר גובה שורה שמונה מילימטר
-- Image: https://example.com/assets/product-1783600780724-g7qhe4.webp
+- Image: https://paar-hastam-vehayudaika.zappy5.app/assets/product-1783600780724-g7qhe4.webp
 
 ### מזוזה כשרה 
-https://example.com/product/mzvzh-kshrh-a37qn3
+https://paar-hastam-vehayudaika.zappy5.app/product/mzvzh-kshrh-a37qn3
 - Price: 180.00 ILS
 - Availability: In stock
 - Description: מזוזה כשרה על קלף גודל 15/12 נכתבה על ידי סופר ירא שמים עים תעודה בדיו נהרי כתב ספרדי עם תיוג.
 
 ### מזוזה כשרה למהרדין א
-https://example.com/product/mzvzh-kshrh-lmhrdyn-a-cf1wue
+https://paar-hastam-vehayudaika.zappy5.app/product/mzvzh-kshrh-lmhrdyn-a-cf1wue
 - Price: 280.00 ILS
 - Availability: Out of stock
 - Description: מזוזה כשרה על קלף שליל גודל 15/12 נכתבה על ידי סופר ירא שמים עים תעודה בדיו נהרי כתב ספרדי עם תיוג.
-- Image: https://example.com/assets/product-1783599483719-be329e.webp
+- Image: https://paar-hastam-vehayudaika.zappy5.app/assets/product-1783599483719-be329e.webp
 
 ### מיזמור למנצח בצורת מנורה
-https://example.com/product/myzmvr-lmntsch-btsvrt-mnvrh-270qw3
+https://paar-hastam-vehayudaika.zappy5.app/product/myzmvr-lmntsch-btsvrt-mnvrh-270qw3
 - Price: 150.00 ILS
 - Availability: In stock
 - Description: כתב ספרדי יפיפה על קלף 17 סמ' על 29 סמ'
-- Image: https://example.com/assets/product-1783598216574-11a42m.webp
+- Image: https://paar-hastam-vehayudaika.zappy5.app/assets/product-1783598216574-11a42m.webp
 
 ### מגילת אסתר כשר למהדרין א 
-https://example.com/product/mgylt-astr-kshr-lmhdryn-a-5ab52v
+https://paar-hastam-vehayudaika.zappy5.app/product/mgylt-astr-kshr-lmhdryn-a-5ab52v
 - Price: 4700.00 ILS (sale, was 5200.00 ILS)
 - Availability: In stock
 - Category: מגילות
 - Description: מגילת אסתר מהודרת כתב ספרדי יפיפה כולל תיוג והגהת מחשב ומבית מגילה מהודר.
-- Image: https://example.com/assets/product-1783595605742-421uza.webp
+- Image: https://paar-hastam-vehayudaika.zappy5.app/assets/product-1783595605742-421uza.webp
 
 ---
 
@@ -153,8 +153,8 @@ Judaica & Religious Articles
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://paar-hastam-vehayudaika.zappy5.app/sitemap.xml
+- Robots: https://paar-hastam-vehayudaika.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://paar-hastam-vehayudaika.zappy5.app/llms-full.txt
+- Products (JSON): https://paar-hastam-vehayudaika.zappy5.app/products.json
+- Products (Google Merchant RSS): https://paar-hastam-vehayudaika.zappy5.app/product-feed.xml
